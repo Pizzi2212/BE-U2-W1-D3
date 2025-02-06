@@ -1,6 +1,7 @@
 package com.epicode.U5D2.entities;
 
 import lombok.Getter;
+import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 import java.util.List;
 
